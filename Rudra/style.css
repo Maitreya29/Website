@@ -1,0 +1,26 @@
+body{
+    font-family: monospace;
+    background-image: url('./bg.jpg');
+}
+p{
+    font-size: 16px;
+}
+.button{
+    background: red;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+.form{
+    padding: 20px;
+    color: red;
+    border: 1px solid red;
+    width: 50%;
+    margin: 5px;
+}
+
+.card{
+    border: 1px solid red;
+    padding: 8px;
+    margin: 5px;
+}
