@@ -1,7 +1,1 @@
-## The source code for my website :earth_asia:.
-> Based on a beautiful Design by Utkarsh Dubey :shit: , modified for human usage by Maitreya Patni.
-<br>
-<hr>
-It is currently live at: https://maitreyap.xyz/
-<hr>
-It's powered by a beautiful Jscript based background animation.
+Source code for my website
